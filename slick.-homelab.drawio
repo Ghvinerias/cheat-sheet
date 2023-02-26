@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T07:34:40.718Z" agent="5.0 (X11)" version="20.8.23" etag="ZHa9A8D6jbTWaxL9B3tk" type="github"><diagram name="Page-1" id="JUxaxvq_NmA8_0eDuPiu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-26T07:38:25.230Z" agent="5.0 (X11)" etag="5jM9i1I4h1MSX_VxKmYo" version="20.8.23" type="github">
+  <diagram name="Page-1" id="JUxaxvq_NmA8_0eDuPiu">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qj9mpcHJ8Z66wuf7wjxP-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj9mpcHJ8Z66wuf7wjxP-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj9mpcHJ8Z66wuf7wjxP-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj9mpcHJ8Z66wuf7wjxP-5" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj9mpcHJ8Z66wuf7wjxP-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="50" height="31.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
